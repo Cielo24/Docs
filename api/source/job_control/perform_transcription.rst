@@ -92,7 +92,7 @@ See :ref:`callback documentation <callbacks-label>` for details.
 |                         +------------------+----------------------------------------------------------------------+
 |                         | `Allowed Values` | See :ref:`languages-label` (comma separated for multiple)            |
 |                         +------------------+----------------------------------------------------------------------+
-|                         | `Example`        | ``target_language=de``                                               |
+|                         | `Example`        | ``target_language=de,fr,it``                                         |
 +-------------------------+------------------+----------------------------------------------------------------------+
 | turnaround_hours        | .. raw:: html                                                                           |
 |                         |                                                                                         |
