@@ -214,7 +214,7 @@ See :ref:`callback documentation <callbacks-label>` for details.
 |                         +------------------+----------------------------------------------------------------------+
 |                         | `Example`        | ``speaker_id=true``                                                  |
 +-------------------------+------------------+----------------------------------------------------------------------+
-| audio_description       | .. raw:: html                                                                           |
+| descriptive_audio       | .. raw:: html                                                                           |
 |                         |                                                                                         |
 |                         |  Requests that all noises and sounds be identified.                                     |
 |                         |                                                                                         |
@@ -223,7 +223,7 @@ See :ref:`callback documentation <callbacks-label>` for details.
 |                         +------------------+----------------------------------------------------------------------+
 |                         | `Default Value`  | false                                                                |
 |                         +------------------+----------------------------------------------------------------------+
-|                         | `Example`        | ``audio_description=true``                                           |
+|                         | `Example`        | ``descriptive_audio=true``                                           |
 +-------------------------+------------------+----------------------------------------------------------------------+
 | on_screen_text          | .. raw:: html                                                                           |
 |                         |                                                                                         |

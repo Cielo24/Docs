@@ -10,7 +10,7 @@ To add guidelines from a publicly accessible Download URL,
 make a GET request and specify the URL in the **guidelines_url** parameter.
 (you do not need to specify **is_html** as false)
 
-To add media rom a local file, make a POST request,
+To add media from a local file, make a POST request,
 Do NOT specify the **guidelines_url** parameter in the request URL.
 The media should be uploaded with a multipart/form content type where the file is uploaded to form-field input **file**
 
